@@ -1,6 +1,6 @@
 {
-	"name": "gulp-webp-html-nosvg",
-	"version": "1.1.1",
+	"name": "gulp-avif-webp-lazyload",
+	"version": "1.0.0",
 	"description": "Replaces the <img> tag with <picture> <source> <img> in HTML files. No SVG, GIF format and data- support",
 	"main": "index.js",
 	"dependencies": {
@@ -12,17 +12,18 @@
 		"test": "echo \"Error: no test specified\" && exit 1"
 	},
 	"repository": {
-		"url": "https://github.com/FreelancerLifeStyle/gulp-webp-html-nosvg"
+		"url": "https://github.com/SergeiTsaplii/gulp-avif-webp-lazyload"
 	},
 	"bugs": {
-		"url": "https://github.com/FreelancerLifeStyle/gulp-webp-html-nosvg/issues"
+		"url": "https://github.com/SergeiTsaplii/gulp-avif-webp-lazyload/issues"
 	},
-	"homepage": "https://www.youtube.com/c/freelancerlifestyle",
+	"homepage": "https://github.com/SergeiTsaplii/gulp-avif-webp-lazyload",
 	"keywords": [
 		"gulp",
+		"avif",
 		"webp",
 		"html"
 	],
-	"author": "FLS",
+	"author": "sergeitsaplii",
 	"license": "MIT"
 }
